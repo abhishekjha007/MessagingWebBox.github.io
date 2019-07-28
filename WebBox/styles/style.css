@@ -1,0 +1,39 @@
+body
+{
+	background-color: lightblue;
+}
+
+h1
+{
+	text-decoration: underline;
+	color: brown;
+}
+
+#Main
+{
+	width: 700px;
+	height: 500px;
+	background-color: lavender;
+	border-radius: 20px;
+	border: 3px solid black;
+}
+
+#Info
+{
+	margin-left: 100px;
+	padding-top: 5px;
+}
+
+button
+{
+   font-size: 20px;
+   border: 2px solid black;
+}
+
+input[type=text]
+{
+	width: 250px;
+	box-sizing: border-box;
+	border: 2px solid blue;
+	border-radius: 5px;
+}

@@ -1,0 +1,45 @@
+body
+{
+	background-color: gray;
+}
+#A
+{
+	height: 435px;
+	background-color: lightgreen;
+	margin-top: 70px;
+}
+
+.output
+{
+	background-color: lightgray;
+	box-shadow: 0px 1px 1px black;
+	height: 250px;
+	margin-bottom: 20px;
+	overflow: scroll;
+}
+
+ul
+{
+	list-style: none;
+}
+
+input[type=submit]
+{
+	width: 100px;
+	text-color: black;
+	box-sizing: border-box;
+	border: 3px solid black;
+	border-radius: 4px;
+}
+
+textarea
+{
+	background-color: white;
+	width: 350px;
+}
+
+#B
+{
+	font-size: 20px;
+	margin-top: 20px;
+}
